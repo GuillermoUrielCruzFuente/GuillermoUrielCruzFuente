@@ -1,25 +1,14 @@
 ![Banner](./img/gh-banner.png)
 
-<h1 align="center">
-    Guillermo Uriel Cruz Fuente - Frontend Developer
-<h1/>
+# Guillermo Uriel Cruz Fuente - Frontend Developer
 
-<p align="center">
-    Detail-oriented developer with more than 3 years of experience implementing enterprise solutions. Always trying to apply the best practices, using modern tools that optimize my workflow and help me develop beautiful and functional websites.
-<p/>
+Detail-oriented developer with more than 3 years of experience implementing enterprise solutions. Always trying to apply the best practices, using modern tools that optimize my workflow and help me develop beautiful and functional websites.
 
 <br>
-<br>
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoCruzFuente&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
-<div/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoCruzFuente&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
----
-
-<h2 align="center">
-    💻 Tech Stack:
-<h2/>
+## 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,9 +34,3 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-<h2 align="center">
-    🌐 Socials:
-<h2/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/guillermo-uriel-cruz-fuente/)
