@@ -1,6 +1,4 @@
-<h1>Guillermo Uriel Cruz Fuente</h1>
-<h2>FRONTEND DEVELOPER<h2/>
+![Banner](./img/gh-banner.png)
+# Guillermo Uriel Cruz Fuente - Frontend Developer
 
-<p>
-    Detail-oriented developer with more than 3 years of experiece
-<p/>
+Detail-oriented developer with more than 3 years of experience implementing enterprise solutions. Always trying to apply the best practices, using modern tools that optimize my workflow and help me develop beautiful and functional websites.
