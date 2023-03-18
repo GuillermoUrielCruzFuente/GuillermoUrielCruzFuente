@@ -6,7 +6,7 @@ Detail-oriented developer with more than 3 years of experience implementing ente
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoCruzFuente&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillermoUrielCruzFuente&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ## 💻 Tech Stack:
 
